@@ -1,0 +1,3 @@
+wav_path,embedding_path,dim
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Ground Truths/Processed_George Robbins_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Ground Truth Embeddings/Processed_George Robbins_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Ground Truths/Processed_Julian Carmona-Munoz_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Ground Truth Embeddings/Processed_Julian Carmona-Munoz_converted.npy,192

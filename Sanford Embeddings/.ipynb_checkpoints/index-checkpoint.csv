@@ -1,0 +1,9 @@
+wav_path,embedding_path,dim
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Andrea_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Andrea_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Anthony_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Anthony_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Courtney_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Courtney_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Diane_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Diane_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Jaxon_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Jaxon_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Spencer_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Spencer_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Tiara_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Tiara_converted.npy,192
+/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Processed DQ Sanford Voice Samples/Ya_Vonna_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Sanford Embeddings/Ya_Vonna_converted.npy,192
