@@ -1,7 +1,0 @@
-wav_path,embedding_path,dim
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Amber_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Amber_converted.npy,192
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Anna_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Anna_converted.npy,192
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Conner_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Conner_converted.npy,192
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Courtney_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Courtney_converted.npy,192
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Daililah_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Daililah_converted.npy,192
-/Users/anshulchiranth/Desktop/Strike/Voice Experiments/To Be Embedded Lakewood Voice Samples/Processed_Emma_converted.wav,/Users/anshulchiranth/Desktop/Strike/Voice Experiments/Lakewood Embeddings/Processed_Emma_converted.npy,192
