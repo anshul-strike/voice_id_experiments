@@ -73,3 +73,8 @@ stable-whisper also supports word matching and word finding after producing a tr
 Fuzzy matching also had a few problems in both the anchor and full segment approaches. There are instances where there are good cuts of the 1.5 minute audio, but more often than not there will be missing audio or unnecessary inclusions of empty audio. Additionally, there are instances where both fuzzy matching algorithms are unable to make a match between transaction-specific transcript and whisper transcript.
 
 The key dependency in this process is the stable-whisper transcription. If that is not accurate, this process will be impossible. I believe that these transcriptions are not good enough. I've seen examples where sentences are present in audio but only a few words are picked up by the stable-whisper transcription.
+
+## Additional Mentions
+Please install dependencies using voice_id_experiments/requirements.txt
+
+The first few blocks present in "Transcription Experiments".ipynb correspond to the current VAD approach. I had done this to understand the current pipeline and find some errors. When running, these blocks can be ignored. Relevant methods can be found in utils.py, most of which are drawn directly from hoptix repo.
